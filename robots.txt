@@ -1,0 +1,5 @@
+User-agent: *
+
+# Files
+Disallow: /page-access-forbidden-for-robots.html
+#Disallow: /
